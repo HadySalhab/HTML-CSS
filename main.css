@@ -14,7 +14,8 @@ body{
     }
 
 .section-title{
-    color:#2ddf5c
+    color:#2ddf5c;
+    text-align: center;
 }
 
 
@@ -23,9 +24,19 @@ body{
     font-family: 'Anton', sans-serif;
 }
 
- h1{
+.plan{
+    background: #d5ffdc;
+    text-align: center;
+    padding:16px;
+    margin: 8px;
+    display:inline-block;
+    width:30%;
+    vertical-align: middle;
+}
+
+ /* h1{
     font-family: sans-serif;
-} 
+}  */
 
 .main-header{
     background:#2ddf5c;
