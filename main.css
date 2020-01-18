@@ -47,6 +47,16 @@ body{
     border-radius: 8px;
 }
 
+.plan__features{
+    padding:0;
+    margin:0;
+    list-style: none;
+    text-align: center;
+}
+.plan__features li {
+    margin: 8px 0;
+    
+}
  /* h1{
     font-family: sans-serif;
 }  */
