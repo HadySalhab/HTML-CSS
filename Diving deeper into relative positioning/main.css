@@ -11,6 +11,7 @@ body {
     padding: 20px;
     border: 5px solid black;
     margin: 0;
+    overflow: hidden;
   }
   
 .parent {
@@ -18,6 +19,7 @@ body {
     padding: 20px;
     border: 5px solid black;
     margin: 0;
+    overflow: hidden;
   }
   
 .parent div {
@@ -29,6 +31,6 @@ body {
 }
 .parent .child-1{
   position:relative;
-  top:300px;
+  top:180px;
   left:50px; 
 }
