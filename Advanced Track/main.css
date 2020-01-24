@@ -9,7 +9,10 @@
     background-origin:border-box ;
     background-clip: border-box; */
     /* background-image: linear-gradient(180deg,red,blue,green,yellow,#fa923f); */
-    background-image: linear-gradient(180deg,red 70%,rgba(0,0,0,0.3),transparent);
+    /* background-image: linear-gradient(180deg,red 70%,blue 70%,transparent); */
+    /* background-image: radial-gradient(circle at top left,red,green,blue); */
+    /* background-image: radial-gradient(circle 20px at 20% 50%,red,green,blue); */
+    /* background-image: radial-gradient(ellipse farthest-side  at 20% 50%,red,green,blue); */
     width: 100%;
     height: 528px;
     padding: 10px;
